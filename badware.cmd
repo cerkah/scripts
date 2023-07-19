@@ -1,2 +1,2 @@
 @echo off
-Echo "Hello Demo!" > output.txt
+Echo Hello Demo! > output.txt
